@@ -5,11 +5,11 @@ Sou desenvolvedor, especialista em Design Thinking e atualmente estou atuando co
 Por hobbie, toco baixo de vez em quando e gosto de ler. Não gosto de ficções, pode conferir as sugestões no meu Netflix, é só documentário...
 #### Pra me encontrar
 
-<a href="https://twitter.com/filipecostadev"><img src="https://github.com/cfilipes/cfilipes/blob/main/ico/twitter.svg" width="16"></img></a> [@filipecostadev](https://twitter.com/filipecostadev)   
+<a href="https://twitter.com/filipecostadev"><img src="https://github.com/cfilipes/cfilipes/blob/principal/ico/twitter.svg" width="16"></img></a> [@filipecostadev](https://twitter.com/filipecostadev)   
 
-<a href="https://linkedin.com/in/cfilipes"><img src="https://github.com/cfilipes/cfilipes/blob/main/ico/linkedin.svg" width="16"></img></a> [@cfilipes](https://linkedin.com/in/cfilipes)  
+<a href="https://linkedin.com/in/cfilipes"><img src="https://github.com/cfilipes/cfilipes/blob/principal/ico/linkedin.svg" width="16"></img></a> [@cfilipes](https://linkedin.com/in/cfilipes)  
 
-<a href="mailto:ola@filpecosta.dev"><img src="https://github.com/cfilipes/cfilipes/blob/main/ico/mail.svg" width="16"></img></a> [ola@filipecosta.dev](mailto:ola@filpecosta.dev)  
+<a href="mailto:ola@filpecosta.dev"><img src="https://github.com/cfilipes/cfilipes/blob/principal/ico/mail.svg" width="16"></img></a> [ola@filipecosta.dev](mailto:ola@filpecosta.dev)  
 
 Fun fact: Já trabalhei como ator por um ano em um espetáculo de Ariano Suassuna.
 <!--
